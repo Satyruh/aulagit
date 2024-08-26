@@ -21,3 +21,5 @@ Repositorios pra armazenamento. GIT & GITHU
 
 |tabela 2| TAbela|
 |-------|------|
+
+ANTES DO COMMIT 
